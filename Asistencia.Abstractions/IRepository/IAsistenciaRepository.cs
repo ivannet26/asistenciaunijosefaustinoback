@@ -26,5 +26,7 @@ Spu_Int_Trae_AsistenciaDetalle
 
         public Task<ResultDTO<DepartamentoResponse>> TraeDepartamento(string empresa);
 
+        public Task<ResultDTO<AsistenciaReporteDetResponse>> TraeReporte(string fechainicio, string fechafin);
+
     }
 }

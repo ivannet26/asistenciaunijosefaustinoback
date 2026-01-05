@@ -75,6 +75,27 @@
   },
   {
     "ContainingType": "Asistencia.WebAPI.Controllers.AsistenciaController",
+    "Method": "SpTraeReporte",
+    "RelativePath": "Asistencia/SpListaReporte",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechainicio",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechafin",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Asistencia.WebAPI.Controllers.AsistenciaController",
     "Method": "SpTraeAsistenciaGeneral",
     "RelativePath": "Asistencia/SpListAsistenciGeneral",
     "HttpMethod": "GET",

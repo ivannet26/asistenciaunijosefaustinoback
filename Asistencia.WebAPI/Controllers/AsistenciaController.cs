@@ -88,5 +88,21 @@ namespace Asistencia.WebAPI.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        [HttpGet]
+        [Route("SpListaReporte")]
+        public async Task<ActionResult> SpTraeReporte(string fechainicio, string fechafin)
+        {
+
+            try {
+                var result = await this._asistenciApplicacion.TraeReporte(fechainicio, fechafin);
+                return Ok(result);
+            }catch( Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
+        }
+
     }
 }

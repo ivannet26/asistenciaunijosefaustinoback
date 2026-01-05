@@ -148,5 +148,28 @@ namespace Asistencia.Repository.Asistencia
             }
             return res;
         }
+
+        public async Task<ResultDTO<AsistenciaReporteDetResponse>> TraeReporte(string fechainicio, string fechafin)
+        {
+            ResultDTO<AsistenciaReporteDetResponse> res = new ResultDTO<AsistenciaReporteDetResponse>();
+            List<AsistenciaReporteDetResponse> lista = new List<AsistenciaReporteDetResponse>();
+            try
+            {
+                SqlConnection cn = new SqlConnection(this._connectionString);
+                DynamicParameters parametros = new DynamicParameters();
+                parametros.Add("@fechaInicio", fechainicio);
+                parametros.Add("@fechafin", fechafin);
+                lista = (List<AsistenciaReporteDetResponse>)await cn.QueryAsync<AsistenciaReporteDetResponse>("Spu_Int_Trae_ReporteAsistenciaDetallado", 
+                    parametros, commandType: CommandType.StoredProcedure);
+                res.IsSuccess = lista.Count > 0 ? true : false;
+                res.Message = lista.Count > 0 ? "Informacion encontrada" : "No se encontro informacion";
+                res.Data = lista.ToList();
+            }
+            catch (Exception ex) {
+                res.IsSuccess = false;
+                res.MessageException = ex.Message;
+            }
+            return res;
+        }
     }
 }
