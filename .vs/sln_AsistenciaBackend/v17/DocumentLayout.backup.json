@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BD17D1F-35C3-419E-9D41-66F084D4A49C}|Asistencia.Repository\\Asistencia.Repository.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.repository\\asistencia\\asistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD17D1F-35C3-419E-9D41-66F084D4A49C}|Asistencia.Repository\\Asistencia.Repository.csproj|solutionrelative:asistencia.repository\\asistencia\\asistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3443C6-B6ED-4A9D-AA7E-A41F76C34306}|Asistencia.Services\\Asistencia.Services.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.services\\asistencia\\asistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3443C6-B6ED-4A9D-AA7E-A41F76C34306}|Asistencia.Services\\Asistencia.Services.csproj|solutionrelative:asistencia.services\\asistencia\\asistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\asistencia\\departamentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\asistencia\\departamentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.webapi\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|solutionrelative:asistencia.webapi\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B3443C6-B6ED-4A9D-AA7E-A41F76C34306}|Asistencia.Services\\Asistencia.Services.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.services\\asistencia\\asistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3443C6-B6ED-4A9D-AA7E-A41F76C34306}|Asistencia.Services\\Asistencia.Services.csproj|solutionrelative:asistencia.services\\asistencia\\asistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.webapi\\controllers\\aniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,19 +38,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AsistenciaRepository.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
+              "RelativeDocumentMoniker": "Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
+              "RelativeToolTip": "Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:25:26.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AsistenciaService.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Asistencia\\AsistenciaService.cs",
               "RelativeDocumentMoniker": "Asistencia.Services\\Asistencia\\AsistenciaService.cs",
               "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Asistencia\\AsistenciaService.cs",
               "RelativeToolTip": "Asistencia.Services\\Asistencia\\AsistenciaService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvzIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzEAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T21:50:52.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AsistenciaController.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
               "RelativeDocumentMoniker": "Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
@@ -58,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AnioController.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AnioController.cs",
               "RelativeDocumentMoniker": "Asistencia.WebAPI\\Controllers\\AnioController.cs",
@@ -70,16 +87,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DepartamentoResponse.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia\\DepartamentoResponse.cs",
               "RelativeDocumentMoniker": "Asistencia.DTO\\Asistencia\\DepartamentoResponse.cs",
               "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia\\DepartamentoResponse.cs",
               "RelativeToolTip": "Asistencia.DTO\\Asistencia\\DepartamentoResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T05:10:04.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T05:10:04.313Z"
             }
           ]
         }
