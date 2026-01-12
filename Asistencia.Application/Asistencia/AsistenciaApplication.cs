@@ -50,5 +50,10 @@ namespace Asistencia.Application.Asistencia
             //return await this.TraeReporte(fechainicio, fechafin);
             return await this._asistenciaServicio.TraeReporte(fechainicio, fechafin);
         }
+
+        public async Task<ResultDTO<ReporteBasicoResponse>> TraeReporteBasico(string fechainicio, string fechafin)
+        {
+            return await this._asistenciaServicio.TraeReporteBasico(fechainicio, fechafin);
+        }
     }
 }

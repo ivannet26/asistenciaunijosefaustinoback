@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|solutionrelative:asistencia.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.webapi\\controllers\\aniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|solutionrelative:asistencia.webapi\\controllers\\aniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31899520-11A6-486E-86DB-7DF6EEBCD018}|Asistencia.Application\\Asistencia.Application.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.application\\anio\\anioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31899520-11A6-486E-86DB-7DF6EEBCD018}|Asistencia.Application\\Asistencia.Application.csproj|solutionrelative:asistencia.application\\anio\\anioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3443C6-B6ED-4A9D-AA7E-A41F76C34306}|Asistencia.Services\\Asistencia.Services.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.services\\anio\\anioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3443C6-B6ED-4A9D-AA7E-A41F76C34306}|Asistencia.Services\\Asistencia.Services.csproj|solutionrelative:asistencia.services\\anio\\anioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.abstractions\\irepository\\ianiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|solutionrelative:asistencia.abstractions\\irepository\\ianiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.abstractions\\iapplication\\ianioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|solutionrelative:asistencia.abstractions\\iapplication\\ianioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.abstractions\\iservice\\iasistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|solutionrelative:asistencia.abstractions\\iservice\\iasistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.abstractions\\iapplication\\iasistenciaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|solutionrelative:asistencia.abstractions\\iapplication\\iasistenciaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.abstractions\\irepository\\iasistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|solutionrelative:asistencia.abstractions\\irepository\\iasistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\perfil\\perfilrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\perfil\\perfilrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\perfil\\perfilresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\perfil\\perfilresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\horariopersonal\\horariogeneralresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\horariopersonal\\horariogeneralresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\anio\\mesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\anio\\mesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\anio\\anioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\anio\\anioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\anio\\aniorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\anio\\aniorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.webapi\\controllers\\horariopersonalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|solutionrelative:asistencia.webapi\\controllers\\horariopersonalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BD17D1F-35C3-419E-9D41-66F084D4A49C}|Asistencia.Repository\\Asistencia.Repository.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.repository\\asistencia\\asistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BD17D1F-35C3-419E-9D41-66F084D4A49C}|Asistencia.Repository\\Asistencia.Repository.csproj|solutionrelative:asistencia.repository\\asistencia\\asistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +75,16 @@
       "RelativeMoniker": "D:0:0:{2B3443C6-B6ED-4A9D-AA7E-A41F76C34306}|Asistencia.Services\\Asistencia.Services.csproj|solutionrelative:asistencia.services\\asistencia\\asistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\asistencia\\departamentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\asistencia\\departamentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31899520-11A6-486E-86DB-7DF6EEBCD018}|Asistencia.Application\\Asistencia.Application.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.application\\asistencia\\asistenciaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31899520-11A6-486E-86DB-7DF6EEBCD018}|Asistencia.Application\\Asistencia.Application.csproj|solutionrelative:asistencia.application\\asistencia\\asistenciaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.webapi\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|solutionrelative:asistencia.webapi\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.webapi\\controllers\\aniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|solutionrelative:asistencia.webapi\\controllers\\aniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\asistencia\\reportebasicoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\asistencia\\reportebasicoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,64 +102,272 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AsistenciaRepository.cs",
-              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
-              "RelativeDocumentMoniker": "Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
-              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
-              "RelativeToolTip": "Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T06:25:26.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AsistenciaService.cs",
-              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Asistencia\\AsistenciaService.cs",
-              "RelativeDocumentMoniker": "Asistencia.Services\\Asistencia\\AsistenciaService.cs",
-              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Asistencia\\AsistenciaService.cs",
-              "RelativeToolTip": "Asistencia.Services\\Asistencia\\AsistenciaService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvzEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T21:50:52.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AsistenciaController.cs",
-              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
-              "RelativeDocumentMoniker": "Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
-              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
-              "RelativeToolTip": "Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T22:38:41.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "AnioController.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AnioController.cs",
               "RelativeDocumentMoniker": "Asistencia.WebAPI\\Controllers\\AnioController.cs",
               "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AnioController.cs",
               "RelativeToolTip": "Asistencia.WebAPI\\Controllers\\AnioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:18:45.921Z"
+              "WhenOpened": "2026-01-11T03:40:05.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DepartamentoResponse.cs",
-              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia\\DepartamentoResponse.cs",
-              "RelativeDocumentMoniker": "Asistencia.DTO\\Asistencia\\DepartamentoResponse.cs",
-              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia\\DepartamentoResponse.cs",
-              "RelativeToolTip": "Asistencia.DTO\\Asistencia\\DepartamentoResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Title": "AnioApplication.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Application\\Anio\\AnioApplication.cs",
+              "RelativeDocumentMoniker": "Asistencia.Application\\Anio\\AnioApplication.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Application\\Anio\\AnioApplication.cs",
+              "RelativeToolTip": "Asistencia.Application\\Anio\\AnioApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T05:10:04.313Z"
+              "WhenOpened": "2026-01-11T03:39:40.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnioRepository.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IRepository\\IAnioRepository.cs",
+              "RelativeDocumentMoniker": "Asistencia.Abstractions\\IRepository\\IAnioRepository.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IRepository\\IAnioRepository.cs",
+              "RelativeToolTip": "Asistencia.Abstractions\\IRepository\\IAnioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:38:16.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnioService.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Anio\\AnioService.cs",
+              "RelativeDocumentMoniker": "Asistencia.Services\\Anio\\AnioService.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Anio\\AnioService.cs",
+              "RelativeToolTip": "Asistencia.Services\\Anio\\AnioService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:37:36.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAnioApplication.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IApplication\\IAnioApplication.cs",
+              "RelativeDocumentMoniker": "Asistencia.Abstractions\\IApplication\\IAnioApplication.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IApplication\\IAnioApplication.cs",
+              "RelativeToolTip": "Asistencia.Abstractions\\IApplication\\IAnioApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:32:07.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PerfilResponse.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Perfil\\PerfilResponse.cs",
+              "RelativeDocumentMoniker": "Asistencia.DTO\\Perfil\\PerfilResponse.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Perfil\\PerfilResponse.cs",
+              "RelativeToolTip": "Asistencia.DTO\\Perfil\\PerfilResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:30:27.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PerfilRequest.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Perfil\\PerfilRequest.cs",
+              "RelativeDocumentMoniker": "Asistencia.DTO\\Perfil\\PerfilRequest.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Perfil\\PerfilRequest.cs",
+              "RelativeToolTip": "Asistencia.DTO\\Perfil\\PerfilRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:30:26.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Asistencia.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Asistencia.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-11T03:29:14.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAsistenciaRepository.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IRepository\\IAsistenciaRepository.cs",
+              "RelativeDocumentMoniker": "Asistencia.Abstractions\\IRepository\\IAsistenciaRepository.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IRepository\\IAsistenciaRepository.cs",
+              "RelativeToolTip": "Asistencia.Abstractions\\IRepository\\IAsistenciaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:04:27.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAsistenciaApplication.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IApplication\\IAsistenciaApplication.cs",
+              "RelativeDocumentMoniker": "Asistencia.Abstractions\\IApplication\\IAsistenciaApplication.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IApplication\\IAsistenciaApplication.cs",
+              "RelativeToolTip": "Asistencia.Abstractions\\IApplication\\IAsistenciaApplication.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:04:28.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAsistenciaService.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IService\\IAsistenciaService.cs",
+              "RelativeDocumentMoniker": "Asistencia.Abstractions\\IService\\IAsistenciaService.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IService\\IAsistenciaService.cs",
+              "RelativeToolTip": "Asistencia.Abstractions\\IService\\IAsistenciaService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:12:21.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HorarioGeneralResponse.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\HorarioPersonal\\HorarioGeneralResponse.cs",
+              "RelativeDocumentMoniker": "Asistencia.DTO\\HorarioPersonal\\HorarioGeneralResponse.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\HorarioPersonal\\HorarioGeneralResponse.cs",
+              "RelativeToolTip": "Asistencia.DTO\\HorarioPersonal\\HorarioGeneralResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:30:14.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MesResponse.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Anio\\MesResponse.cs",
+              "RelativeDocumentMoniker": "Asistencia.DTO\\Anio\\MesResponse.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Anio\\MesResponse.cs",
+              "RelativeToolTip": "Asistencia.DTO\\Anio\\MesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:30:10.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnioResponse.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Anio\\AnioResponse.cs",
+              "RelativeDocumentMoniker": "Asistencia.DTO\\Anio\\AnioResponse.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Anio\\AnioResponse.cs",
+              "RelativeToolTip": "Asistencia.DTO\\Anio\\AnioResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:30:07.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AnioRequest.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Anio\\AnioRequest.cs",
+              "RelativeDocumentMoniker": "Asistencia.DTO\\Anio\\AnioRequest.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Anio\\AnioRequest.cs",
+              "RelativeToolTip": "Asistencia.DTO\\Anio\\AnioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:30:04.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HorarioPersonalController.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\HorarioPersonalController.cs",
+              "RelativeDocumentMoniker": "Asistencia.WebAPI\\Controllers\\HorarioPersonalController.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\HorarioPersonalController.cs",
+              "RelativeToolTip": "Asistencia.WebAPI\\Controllers\\HorarioPersonalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:29:13.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AsistenciaController.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
+              "RelativeDocumentMoniker": "Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
+              "RelativeToolTip": "Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAG8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:32:26.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AsistenciaApplication.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Application\\Asistencia\\AsistenciaApplication.cs",
+              "RelativeDocumentMoniker": "Asistencia.Application\\Asistencia\\AsistenciaApplication.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Application\\Asistencia\\AsistenciaApplication.cs",
+              "RelativeToolTip": "Asistencia.Application\\Asistencia\\AsistenciaApplication.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:27:56.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AsistenciaService.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Asistencia\\AsistenciaService.cs",
+              "RelativeDocumentMoniker": "Asistencia.Services\\Asistencia\\AsistenciaService.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Asistencia\\AsistenciaService.cs",
+              "RelativeToolTip": "Asistencia.Services\\Asistencia\\AsistenciaService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:27:01.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AsistenciaRepository.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
+              "RelativeDocumentMoniker": "Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
+              "RelativeToolTip": "Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:22:24.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReporteBasicoResponse.cs",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia\\ReporteBasicoResponse.cs",
+              "RelativeDocumentMoniker": "Asistencia.DTO\\Asistencia\\ReporteBasicoResponse.cs",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia\\ReporteBasicoResponse.cs",
+              "RelativeToolTip": "Asistencia.DTO\\Asistencia\\ReporteBasicoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T23:53:38.5Z"
             }
           ]
         }

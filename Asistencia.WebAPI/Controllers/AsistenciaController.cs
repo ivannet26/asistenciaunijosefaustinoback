@@ -104,5 +104,18 @@ namespace Asistencia.WebAPI.Controllers
 
         }
 
+        [HttpGet]
+        [Route("SpListaReporteBasico")]
+        public async Task<ActionResult> SpTraerReporteBasico(string fechainicio, string fechafin)
+        {
+            try {
+                var result = await this._asistenciApplicacion.TraeReporteBasico(fechainicio, fechafin);
+                return Ok(result);
+
+            } catch (Exception ex) {
+                return BadRequest(ex.Message);
+            }
+        }
+
     }
 }
