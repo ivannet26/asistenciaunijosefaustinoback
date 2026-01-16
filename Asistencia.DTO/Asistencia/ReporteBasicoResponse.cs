@@ -21,5 +21,7 @@ namespace Asistencia.DTO.Asistencia
         public string ingreso { get; set; }
         public string salida { get; set; }
         public string tiempoTotal { get; set; }
+
+        public string tiempoFormateado { get; set; }
     }
 }
