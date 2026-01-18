@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\asistencia\\reportebasicoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\asistencia\\reportebasicoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BD17D1F-35C3-419E-9D41-66F084D4A49C}|Asistencia.Repository\\Asistencia.Repository.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.repository\\asistencia\\asistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BD17D1F-35C3-419E-9D41-66F084D4A49C}|Asistencia.Repository\\Asistencia.Repository.csproj|solutionrelative:asistencia.repository\\asistencia\\asistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|solutionrelative:asistencia.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.webapi\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77DB79C7-45E2-4834-9BD4-FCFC4A4508FD}|Asistencia.WebAPI\\Asistencia.WebAPI.csproj|solutionrelative:asistencia.webapi\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.abstractions\\irepository\\ianiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|solutionrelative:asistencia.abstractions\\irepository\\ianiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD17D1F-35C3-419E-9D41-66F084D4A49C}|Asistencia.Repository\\Asistencia.Repository.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.repository\\asistencia\\asistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD17D1F-35C3-419E-9D41-66F084D4A49C}|Asistencia.Repository\\Asistencia.Repository.csproj|solutionrelative:asistencia.repository\\asistencia\\asistenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.dto\\asistencia\\reportebasicoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED000C1-9509-4993-B45F-0A7F45243186}|Asistencia.DTO\\Asistencia.DTO.csproj|solutionrelative:asistencia.dto\\asistencia\\reportebasicoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BD17D1F-35C3-419E-9D41-66F084D4A49C}|Asistencia.Repository\\Asistencia.Repository.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.repository\\repositoryserviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B3443C6-B6ED-4A9D-AA7E-A41F76C34306}|Asistencia.Services\\Asistencia.Services.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.services\\anio\\anioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3443C6-B6ED-4A9D-AA7E-A41F76C34306}|Asistencia.Services\\Asistencia.Services.csproj|solutionrelative:asistencia.services\\anio\\anioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.abstractions\\irepository\\ianiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|solutionrelative:asistencia.abstractions\\irepository\\ianiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90F7BC02-8B55-4344-93E3-BAD77A739FF1}|Asistencia.Abstractions\\Asistencia.Abstractions.csproj|d:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\asistencia.abstractions\\iapplication\\ianioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "IAnioRepository.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\IRepository\\IAnioRepository.cs",
               "RelativeDocumentMoniker": "Asistencia.Abstractions\\IRepository\\IAnioRepository.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AnioService.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Anio\\AnioService.cs",
               "RelativeDocumentMoniker": "Asistencia.Services\\Anio\\AnioService.cs",
@@ -146,32 +146,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AsistenciaRepository.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
               "RelativeDocumentMoniker": "Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
               "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
               "RelativeToolTip": "Asistencia.Repository\\Asistencia\\AsistenciaRepository.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAswLgAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T00:22:24.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T00:22:24.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AsistenciaController.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
               "RelativeDocumentMoniker": "Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
               "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
               "RelativeToolTip": "Asistencia.WebAPI\\Controllers\\AsistenciaController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGEAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T00:32:26.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Asistencia.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Asistencia.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-11T03:29:14.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ReporteBasicoResponse.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia\\ReporteBasicoResponse.cs",
               "RelativeDocumentMoniker": "Asistencia.DTO\\Asistencia\\ReporteBasicoResponse.cs",
@@ -179,25 +191,11 @@
               "RelativeToolTip": "Asistencia.DTO\\Asistencia\\ReporteBasicoResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T23:53:38.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T23:53:38.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Asistencia.WebAPI\\appsettings.json",
-              "ToolTip": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\appsettings.json",
-              "RelativeToolTip": "Asistencia.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-11T03:29:14.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AnioApplication.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Application\\Anio\\AnioApplication.cs",
               "RelativeDocumentMoniker": "Asistencia.Application\\Anio\\AnioApplication.cs",
@@ -209,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RepositoryServiceRegister.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\RepositoryServiceRegister.cs",
               "RelativeDocumentMoniker": "Asistencia.Repository\\RepositoryServiceRegister.cs",
@@ -221,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ServicesServiceRegister.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\ServicesServiceRegister.cs",
               "RelativeDocumentMoniker": "Asistencia.Services\\ServicesServiceRegister.cs",
@@ -233,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AnioController.cs",
               "DocumentMoniker": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.WebAPI\\Controllers\\AnioController.cs",
               "RelativeDocumentMoniker": "Asistencia.WebAPI\\Controllers\\AnioController.cs",

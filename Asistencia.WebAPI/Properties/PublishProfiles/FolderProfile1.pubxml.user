@@ -1,4 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
 <Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\trabajo\univjosefaustino\asistenciaunijosefaustinoback\Asistencia.WebAPI\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2026-01-17T19:49:50.2979925Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
 </Project>
